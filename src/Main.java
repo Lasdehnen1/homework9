@@ -52,7 +52,7 @@ public class Main {
             sum += current;
         }
         double averageExpence = sum / 30.0;
-        System.out.println("Средняя сумма трат за месяц составила " + averageExpence + " рублей");
+        System.out.println("Средняя сумма трат за месяц составила " + averageExpence + " рублей.");
     }
     public static void task4 () {
         System.out.println("Задача 4");
